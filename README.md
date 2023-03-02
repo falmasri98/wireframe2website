@@ -1,5 +1,5 @@
 # wireframe2website
-i have created the following webpages using **html5** in **VSCODE**
+i have created the following ***WIREFRAME*** webpages using ***HTML5*** in **VSCODE**
 
 ![home](https://user-images.githubusercontent.com/117181849/222329635-32847e06-f81d-4ef8-bed0-8288bdfcbfe0.png)
 ![products](https://user-images.githubusercontent.com/117181849/222329660-82375660-7ab4-4630-9f62-1dbe49c49330.png)
